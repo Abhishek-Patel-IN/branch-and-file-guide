@@ -1,0 +1,12 @@
+{
+  "name": "branch-and-file-naming-guide",
+  "version": "1.0.0",
+  "description": "Git branch and file naming guidance with read-only audits and rename workflows.",
+  "author": {
+    "name": "Abhishek-Patel-IN",
+    "url": "https://github.com/Abhishek-Patel-IN"
+  },
+  "homepage": "https://github.com/Abhishek-Patel-IN/branch-and-file-naming-guide",
+  "repository": "https://github.com/Abhishek-Patel-IN/branch-and-file-naming-guide",
+  "skills": "./"
+}

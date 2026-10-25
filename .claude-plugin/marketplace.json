@@ -1,0 +1,16 @@
+{
+  "name": "branch-and-file-naming-guide",
+  "owner": {
+    "name": "Abhishek-Patel-IN"
+  },
+  "plugins": [
+    {
+      "name": "branch-and-file-naming-guide",
+      "source": "./",
+      "description": "Git branch and file naming guidance with read-only audits and rename workflows."
+    }
+  ],
+  "metadata": {
+    "description": "Git branch and file naming guidance for AI coding assistants."
+  }
+}
